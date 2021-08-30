@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cadencantcode
+- 👀 I’m interested in ...Learning C#
+- 🌱 I’m currently learning ...C#
+- 📫 How to reach me ...Discord:CadenCodes#1720
